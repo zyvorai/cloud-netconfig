@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: Using cnctl (CLI)
----
+# Using cnctl (CLI)
 
 cloud-netconfig is operated through **cnctl** and the **cloud-netconfigd** systemd service — there is no first-party web console.
 

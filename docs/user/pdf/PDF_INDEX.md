@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: cloud-netconfig user PDFs
----
+# cloud-netconfig user PDFs
 
 Generated: 2026-08-29
 

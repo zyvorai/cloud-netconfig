@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: Configuration
----
+# Configuration
 
 cloud-netconfig's config surface is a single YAML file read by `cloud-netconfigd` at startup. Supplementary interfaces, metadata refresh, routing tables, and provider-specific options all live in this file.
 

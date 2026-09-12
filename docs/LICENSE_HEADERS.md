@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: LICENSE HEADERS
-  title: Source license headers
----
+# Source license headers
 
 Apache-2.0 — Go sources and scripts include:
 

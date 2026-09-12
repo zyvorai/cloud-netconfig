@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: Workflows
----
+# Workflows
 
 ## Purpose
 

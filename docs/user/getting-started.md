@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: Getting started
----
+# Getting started
 
 cloud-netconfig applies secondary IPs and policy routing from Azure, AWS EC2, and GCP instance metadata — event-driven via netlink, so changes propagate without manual route edits. This page gets you from install to a running daemon.
 

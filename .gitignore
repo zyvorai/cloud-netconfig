@@ -25,7 +25,3 @@ Thumbs.db
 
 # Doc build tools (marked via ../ironwolf/.docs-tools or local npm install)
 .docs-tools/
-
-# MkDocs
-site/
-__pycache__/

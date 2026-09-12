@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: Getting Started
----
+# Getting Started
 
 ## Purpose
 

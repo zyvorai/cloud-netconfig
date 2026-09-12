@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: cloud-netconfig — Complete page index
----
+# cloud-netconfig — Complete page index
 
 Every primary navigable dashboard route.
 

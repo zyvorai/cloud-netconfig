@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: Common workflows
----
+# Common workflows
 
 | Workflow | Steps |
 |----------|-------|

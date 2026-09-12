@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: cloud-netconfig — User Documentation
----
+# cloud-netconfig — User Documentation
 
 Automatic network configuration for cloud VMs — secondary IPs, routing tables, and policy-based routing from Azure, AWS EC2, and GCP instance metadata.
 

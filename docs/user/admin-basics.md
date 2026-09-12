@@ -1,8 +1,4 @@
----
-hero:
-  eyebrow: USER GUIDE
-  title: Admin basics
----
+# Admin basics
 
 | Topic | Guidance |
 |-------|----------|
