@@ -1,4 +1,8 @@
-# Page-by-page guides
+---
+hero:
+  eyebrow: USER GUIDE
+  title: Page-by-page guides
+---
 
 Each guide follows: Purpose → When to use it → How to get there → What you can do → Related pages.
 
