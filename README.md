@@ -4,16 +4,15 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Release](https://img.shields.io/github/v/release/hypersdk/cloud-netconfig)](https://github.com/hypersdk/cloud-netconfig/releases)
 
-<p align="center">
-  <a href="https://zyvor.dev/demo?utm_source=github&utm_medium=cloud-netconfig"><img src="https://img.shields.io/badge/Demo-F97316?style=flat-square" alt="Demo"/></a>
-  <a href="https://zyvor.dev/docs?utm_source=github&utm_medium=cloud-netconfig"><img src="https://img.shields.io/badge/Docs-2563EB?style=flat-square" alt="Docs"/></a>
-  <a href="https://zyvor.dev/blog?utm_source=github&utm_medium=cloud-netconfig"><img src="https://img.shields.io/badge/Blog-71717A?style=flat-square" alt="Blog"/></a>
-  <a href="https://zyvor.dev/contact?utm_source=github&utm_medium=cloud-netconfig"><img src="https://img.shields.io/badge/Contact_sales-22C55E?style=flat-square" alt="Contact"/></a>
-</p>
+![cloud-netconfig — automatic multi-cloud Linux networking](docs/social/cloud-netconfig-share-card.png)
 
-Automatic network configuration for cloud instances using provider metadata (Azure, AWS, GCP, and others). Handles secondary IPs, routing tables, and policy-based routing on multi-interface VMs.
+**Automatic network configuration for cloud instances using provider metadata (Azure, AWS, GCP, and others).**
 
-## Table of contents
+Handles secondary IPs, routing tables, and policy-based routing on multi-interface VMs. Community Edition daemon from the HyperSDK suite — runs unprivileged with `CAP_NET_ADMIN`.
+
+📖 **[Enterprise & support](docs/enterprise.md)** · [Demo](https://zyvor.dev/demo?utm_source=github&utm_medium=cloud-netconfig) · [Contact](https://zyvor.dev/contact?utm_source=github&utm_medium=cloud-netconfig)
+
+## Contents
 
 - [Features](#features)
 - [Installation](#installation)
