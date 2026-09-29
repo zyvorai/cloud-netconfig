@@ -4,13 +4,16 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Release](https://img.shields.io/github/v/release/hypersdk/cloud-netconfig)](https://github.com/hypersdk/cloud-netconfig/releases)
 
+[![Book a demo](https://img.shields.io/badge/Book_a_demo-0071e3?style=for-the-badge)](https://zyvor.dev/schedule?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_hero)
+[![30-day PoC](https://img.shields.io/badge/30--day_PoC-1d1d1f?style=for-the-badge)](https://zyvor.dev/poc?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_hero)
+
 ![cloud-netconfig — automatic multi-cloud Linux networking](docs/social/cloud-netconfig-share-card.png)
 
 **Automatic network configuration for cloud instances using provider metadata (Azure, AWS, GCP, and others).**
 
-Handles secondary IPs, routing tables, and policy-based routing on multi-interface VMs. Community Edition daemon from the HyperSDK suite — runs unprivileged with `CAP_NET_ADMIN`.
+Handles secondary IPs, routing tables, and policy-based routing on multi-interface VMs. Community Edition daemon from the Zyvor Platform suite — runs unprivileged with `CAP_NET_ADMIN`.
 
-📖 **[Enterprise & support](docs/enterprise.md)** · [Demo](https://zyvor.dev/demo?utm_source=github&utm_medium=cloud-netconfig) · [Contact](https://zyvor.dev/contact?utm_source=github&utm_medium=cloud-netconfig)
+📖 **[Enterprise & support](docs/enterprise.md)** · [Demo](https://zyvor.dev/demo?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_hero) · [Contact](https://zyvor.dev/contact?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_hero)
 
 ## Contents
 
@@ -98,27 +101,28 @@ Enable debug logging in the config file (`logging.level: debug`) when diagnosing
 
 ## Enterprise
 
-| | Community Edition (this repo) | Enterprise ([zyvor.dev](https://zyvor.dev/?utm_source=github&utm_medium=cloud-netconfig)) |
+| | Community Edition (this repo) | Enterprise ([zyvor.dev](https://zyvor.dev/?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_edition)) |
 |---|------------------------------|--------------------------------------------------------------------------------------------|
 | **Support** | [GitHub Issues](https://github.com/hypersdk/cloud-netconfig/issues) | SLA, [sales@zyvor.dev](mailto:sales@zyvor.dev), professional services |
 | **Scope** | Open-source daemon | Supported multi-cloud production rollouts |
 | **Features** | Multi-cloud metadata clients, event-driven reconfiguration, policy-based routing | Same codebase + fleet automation and rollout support |
-| **Platform** | cloud-netconfig | HyperSDK migration and operations suite |
+| **Platform** | cloud-netconfig | Zyvor Platform migration and operations suite |
 
 | | |
 |---|---|
-| **Demo** | [zyvor.dev/demo](https://zyvor.dev/demo?utm_source=github&utm_medium=cloud-netconfig) |
-| **ROI** | [zyvor.dev/roi](https://zyvor.dev/roi?utm_source=github&utm_medium=cloud-netconfig) |
-| **Pricing** | [zyvor.dev/pricing](https://zyvor.dev/pricing?utm_source=github&utm_medium=cloud-netconfig) |
-| **Contact** | [zyvor.dev/contact](https://zyvor.dev/contact?utm_source=github&utm_medium=cloud-netconfig) · [sales@zyvor.dev](mailto:sales@zyvor.dev) |
+| **Demo** | [zyvor.dev/demo](https://zyvor.dev/demo?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_edition) |
+| **ROI** | [zyvor.dev/roi](https://zyvor.dev/roi?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_edition) |
+| **Pricing** | [zyvor.dev/pricing](https://zyvor.dev/pricing?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_edition) |
+| **Contact** | [zyvor.dev/contact](https://zyvor.dev/contact?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_edition) · [sales@zyvor.dev](mailto:sales@zyvor.dev) |
 
-Community Edition is the open-source daemon. Supported multi-cloud rollouts, SLAs, and HyperSDK migration integration → contact Zyvor (not GitHub Issues). Details: [docs/enterprise.md](docs/enterprise.md).
+Community Edition is the open-source daemon. Supported multi-cloud rollouts, SLAs, and Zyvor Platform migration integration → contact Zyvor (not GitHub Issues). Details: [docs/enterprise.md](docs/enterprise.md).
 
 ## Support the project
 
-cloud-netconfig Community Edition is free and open source, maintained by **Susant Sahani** · [Zyvor AI Labs](https://zyvor.dev?utm_source=github&utm_medium=cloud-netconfig)
+cloud-netconfig Community Edition is free and open source, maintained by **Susant Sahani** · [Zyvor AI Labs](https://zyvor.dev/?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_footer)
 
-- **Enterprise / production:** [zyvor.dev/contact](https://zyvor.dev/contact?utm_source=github&utm_medium=cloud-netconfig) · [sales@zyvor.dev](mailto:sales@zyvor.dev)
+- **Enterprise / production:** [zyvor.dev/contact](https://zyvor.dev/contact?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_footer) · [sales@zyvor.dev](mailto:sales@zyvor.dev)
+- **Demo and PoC:** [Book a demo](https://zyvor.dev/schedule?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_footer) · [30-day PoC](https://zyvor.dev/poc?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_footer)
 - **Community help:** [GitHub Issues](https://github.com/hypersdk/cloud-netconfig/issues)
 
 ## License
@@ -132,4 +136,4 @@ use at no charge, subject to Apache-2.0 (preserve notices / NOTICE where require
 ### Enterprise
 
 Production support, SLAs, and Zyvor Enterprise products are licensed separately.
-Contact [sales@zyvor.dev](mailto:sales@zyvor.dev) or see [zyvor.dev](https://zyvor.dev).
+Contact [sales@zyvor.dev](mailto:sales@zyvor.dev) or see [zyvor.dev](https://zyvor.dev/?utm_source=github&utm_medium=cloud-netconfig&utm_campaign=readme_edition).
